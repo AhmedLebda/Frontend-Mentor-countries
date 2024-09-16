@@ -50,7 +50,7 @@ const Home = () => {
                             flag: country.flags.png,
                             population: country.population,
                             region: country.region,
-                            capital: country.capital,
+                            capital: country.capital || ["unknown"],
                         }}
                     />
                 ))}

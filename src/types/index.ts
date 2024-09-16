@@ -9,7 +9,7 @@ export interface Country {
     population: number;
     region: string;
     subregion: string;
-    capital: string[];
+    capital: string[] | null;
     currencies: { [key: string]: { name: string; symbol: string } };
     languages: { [key: string]: string };
     tld: string[] | null;

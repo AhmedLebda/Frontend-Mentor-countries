@@ -65,7 +65,9 @@ const CountryDetails = () => {
                     </p>
                     <p>
                         <span className="font-semibold">Capital: </span>{" "}
-                        {country.capital.join(", ")}
+                        {country.capital
+                            ? country.capital.join(", ")
+                            : "country.capital"}
                     </p>
                 </div>
 

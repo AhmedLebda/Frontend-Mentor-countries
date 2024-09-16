@@ -67,7 +67,7 @@ const CountryDetails = () => {
                         <span className="font-semibold">Capital: </span>{" "}
                         {country.capital
                             ? country.capital.join(", ")
-                            : "country.capital"}
+                            : "unknown"}
                     </p>
                 </div>
 

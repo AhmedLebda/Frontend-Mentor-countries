@@ -41,7 +41,7 @@ const Home = () => {
                 <Filter value={filter} onChange={setFilter} />
             </div>
 
-            <section className="grid gap-6 place-items-center sm:grid-cols-1 md:grid-cols-2  xl:grid-cols-3 2xl:grid-cols-4 container mx-auto">
+            <section className="grid gap-6 place-items-center sm:grid-cols-1 md:grid-cols-2  xl:grid-cols-3 2xl:grid-cols-4">
                 {countriesToRender.map((country) => (
                     <CountryCard
                         key={country.name.common}

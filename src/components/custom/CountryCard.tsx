@@ -14,7 +14,7 @@ interface CountryCardProps {
 const CountryCard = ({ data }: CountryCardProps) => {
     const { flag, name, population, region, capital } = data;
     return (
-        <div className="w-full max-w-sm">
+        <div className="w-full max-w-xs">
             <Link to={name}>
                 <Card className="shadow-md dark:bg-darkElement">
                     <CardHeader className="px-0 pt-0">

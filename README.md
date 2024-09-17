@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![light-home-desktop](./countries/screenshots/light-home-desktop.png)
-![light-home-mobile](./countries/screenshots/light-home-mobile.png)
-![light-details-desktop](./countries/screenshots/light-details-desktop.png)
-![light-details-mobile](./countries/screenshots/light-details-mobile.png)
-![dark-home-desktop](./countries/screenshots/dark-home-desktop.png)
-![dark-home-mobile](./countries/screenshots/dark-home-mobile.png)
-![dark-details-desktop](./countries/screenshots/dark-details-desktop.png)
-![dark-details-mobile](./countries/screenshots/dark-details-mobile.png)
+![light-home-desktop](./screenshots/light-home-desktop.png)
+![light-home-mobile](./screenshots/light-home-mobile.png)
+![light-details-desktop](./screenshots/light-details-desktop.png)
+![light-details-mobile](./screenshots/light-details-mobile.png)
+![dark-home-desktop](./screenshots/dark-home-desktop.png)
+![dark-home-mobile](./screenshots/dark-home-mobile.png)
+![dark-details-desktop](./screenshots/dark-details-desktop.png)
+![dark-details-mobile](./screenshots/dark-details-mobile.png)
 
 ### Links
 
